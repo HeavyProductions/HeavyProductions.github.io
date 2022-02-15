@@ -1,0 +1,7 @@
+#col1image {
+    background-image: url(images/editing.jpeg);
+    background-position: center; 
+    background-size: contain;
+    background-size: cover;
+    /* background-repeat: no-repeat; */
+}
